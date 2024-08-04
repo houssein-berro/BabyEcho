@@ -5,7 +5,7 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-> A web app for understanding a baby’s needs by interpreting their cries, making it easier for parents to respond promptly and effectively.
+> A mobile app for understanding a baby’s needs by interpreting their cries, making it easier for parents to respond promptly and effectively.
 >
 > BabyEcho aims to bridge the communication gap between parents and their infants by providing precise insights into what a baby's cries signify. We believe in enhancing the parenting experience by reducing anxiety and ensuring confidence in addressing a baby’s needs.
 

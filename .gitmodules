@@ -1,3 +1,6 @@
 [submodule "babyecho-mobile"]
 	path = babyecho-mobile
 	url = https://github.com/houssein-berro/babyecho-mobile
+[submodule "babyecho-backend"]
+	path = babyecho-backend
+	url = https://github.com/houssein-berro/babyecho-backend

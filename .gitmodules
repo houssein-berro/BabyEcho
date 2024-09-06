@@ -4,3 +4,6 @@
 [submodule "babyecho-backend"]
 	path = babyecho-backend
 	url = https://github.com/houssein-berro/babyecho-backend
+[submodule "babyecho-ml"]
+	path = babyecho-ml
+	url = https://github.com/houssein-berro/babyecho-ml.git

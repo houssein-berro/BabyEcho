@@ -7,3 +7,6 @@
 [submodule "babyecho-ml"]
 	path = babyecho-ml
 	url = https://github.com/houssein-berro/babyecho-ml.git
+[submodule "babyecho-doctor"]
+	path = babyecho-doctor
+	url = https://github.com/houssein-berro/babyecho-doctor.git

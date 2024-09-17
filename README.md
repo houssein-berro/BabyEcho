@@ -42,14 +42,34 @@
 - Project Figma design [figma](https://www.figma.com/design/iS9bgbQR8TiNToHSQ8DhFZ/Baby-Echo?node-id=0-1&t=tngZIMDuohP5a06X-1)
 
 <br/><br/>
-### User Screens (Mobile)
 
-| Login screen  | Register screen | Home screen | Add Baby screen |
-| ---| ---| ---| ---|
-| ![Landing](./readme/demo/Login.jpeg) | ![fsdaf](./readme/demo/Register.jpeg) | ![fsdaf](./readme/demo/Home.jpeg) | ![fsdaf](./readme/demo/AddBaby.jpeg) |
-| Babies screen  | Recording Screen | Birthdays Screen | Tips Screen |
-| ![Landing](./readme/demo/Babies.jpeg) | ![fsdaf](./readme/demo/RecordingRoom.jpeg) | ![fsdaf](./readme/demo/Birthdays.jpeg) | ![fsdaf](./readme/demo/Tips.jpeg) |
+### Mockups
 
+| Home Screen | Birthdays Screen |
 
+| ![Landing](./readme/demo/Home.png) | ![fsdaf](./readme/demo/Birthdays.png) |
+
+<br/><br/>
 <!-- Database Design -->
 <img src="./readme/title5.svg"/>
+
+### Architecting Data Excellence: Innovative Database Design Strategies:
+- Insert ER Diagram here
+
+<br><br>
+
+
+
+
+### User Screens (Mobile)
+
+| Login screen  | Register screen | Add Baby screen | Babies screen |
+| ---| ---| ---| ---|
+| ![Landing](./readme/demo/Login.jpeg) | ![fsdaf](./readme/demo/Register.jpeg) | ![fsdaf](./readme/demo/AddBaby.jpeg)  | ![Landing](./readme/demo/Babies.jpeg) |
+| Baby Recordings screen  | Recording Screen  | Tips Screen |
+| ![Landing](./readme/demo/BabyRecordings.jpeg) | ![fsdaf](./readme/demo/RecordingRoom.jpeg)  | ![fsdaf](./readme/demo/Tips.jpeg) 
+
+<br><br>
+
+
+

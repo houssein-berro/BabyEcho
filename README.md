@@ -71,5 +71,22 @@
 
 <br><br>
 
+<!-- Prompt Engineering -->
+<img src="./readme/title7.svg"/>
+
+### Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
+
+-BabyEcho utilizes advanced prompt engineering techniques to fine-tune interactions with machine learning models. By crafting specific input instructions, we optimize the AI's ability to accurately interpret and analyze baby cry patterns, providing parents with precise and actionable insights to better understand their baby's needs.
+
+<br><br>
+
+<!-- AWS Deployment -->
+<img src="./readme/title8.svg"/>
+
+### Efficient AI Deployment: Unleashing the Potential with AWS Integration:
+
+- BabyEcho utilizes AWS deployment strategies to efficiently integrate and deploy machine learning models for real-time cry pattern analysis. With a focus on scalability, reliability, and secure storage, we ensure that the app delivers accurate and responsive insights to parents, no matter the volume of data or user demand.
+
+<br><br>
 
 

@@ -46,8 +46,8 @@
 ### Mockups
 
 | Home Screen | Birthdays Screen |
-
-| ![Landing](./readme/demo/Home.png) | ![fsdaf](./readme/demo/Birthdays.png) |
+| ---| ---| 
+| ![Landing](./readme/demo/Home.jpeg) | ![fsdaf](./readme/demo/Birthdays.jpeg) |
 
 <br/><br/>
 <!-- Database Design -->
@@ -90,3 +90,77 @@
 <br><br>
 
 
+<!-- Unit Testing -->
+<img src="./readme/title9.svg"/>
+
+### Precision in Development: Harnessing the Power of Unit Testing:
+
+- This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
+
+<br><br>
+
+
+<!-- How to run -->
+<img src="./readme/title10.svg"/>
+
+> To set up VerbalBotic locally, follow these steps:
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Clone the repo:
+
+   ```sh
+   git clone [github](https://github.com/houssein-berro/BabyEcho.git)
+   ```
+
+2. Create a `.env` file in the backend with the following environment variables:
+
+   ```js
+   MONGO_URI = "ENTER YOUR MongoDB URI";
+   JWT_SECRET = "ENTER YOUR secret";
+   PORT = "ENTER the port for your backend";
+   ```
+
+3. Create a `.env` file in the mobile with the following environment variables:
+
+   ```js
+   API_URL = "http://yourBackendIP:yourBackendPort";
+   ML_URL = "http://yourMLServerIP:yourMLServerPort";
+   ```
+
+4. Install NPM packages:
+
+   ```sh
+   cd BabyEcho-backend
+   npm i
+   npm run dev # to run the backend, port is declared in the .env file
+   ```
+
+   ```sh
+   # new terminal
+   cd BabyEcho-ml
+   uvicorn app:app --host 0.0.0.0 --port "desired port"
+   ```
+
+   ```sh
+   # new terminal
+   cd BabyEcho-mobile
+   npm i
+   npx react-native start --clear
+   ```
+
+5. Ensure your ESP8266 is set up and connected to the backend for real-time cry pattern monitoring and control.
+
+Now, you should be able to run **BabyEcho** locally and explore its features.

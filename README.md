@@ -86,6 +86,7 @@
 ### Efficient AI Deployment: Unleashing the Potential with AWS Integration:
 
 - BabyEcho utilizes AWS deployment strategies to efficiently integrate and deploy machine learning models for real-time cry pattern analysis. With a focus on scalability, reliability, and secure storage, we ensure that the app delivers accurate and responsive insights to parents, no matter the volume of data or user demand.
+<img src="./readme/demo/Screenshot 2024-09-22 174418.png"/>
 
 <br><br>
 

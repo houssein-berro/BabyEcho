@@ -15,6 +15,11 @@
 - As a user, I want to receive notifications when my baby cries, so I can be alerted immediately.
 - As a user, I want to track my baby’s cry patterns, so I can understand their needs better over time.
 
+### Doctor Stories
+- As a doctor, I want to access the baby's data, so I can monitor the baby's health and well-being remotely.
+- As a doctor, I want to view charts that analyze the baby's cry patterns and other data, so I can make data-driven decisions and offer informed medical advice.
+- As a doctor, I want to securely download or export baby analysis data, so I can include it in medical records or share it with other healthcare professionals.
+
 <br><br>
 
 <!-- Tech stack -->
@@ -54,22 +59,25 @@
 <img src="./readme/title5.svg"/>
 
 ### Architecting Data Excellence: Innovative Database Design Strategies:
-- Insert ER Diagram here
+<img src="./readme/demo/Screenshot 2024-09-22 181720.png"/>
 
 <br><br>
-
 
 
 
 ### User Screens (Mobile)
 
-| Login screen  | Register screen | Add Baby screen | Babies screen |
-| ---| ---| ---| ---|
-| ![Landing](./readme/demo/Login.jpeg) | ![fsdaf](./readme/demo/Register.jpeg) | ![fsdaf](./readme/demo/AddBaby.jpeg)  | ![Landing](./readme/demo/Babies.jpeg) |
-| Baby Recordings screen  | Recording Screen  | Tips Screen |
-| ![Landing](./readme/demo/BabyRecordings.jpeg) | ![fsdaf](./readme/demo/RecordingRoom.jpeg)  | ![fsdaf](./readme/demo/Tips.jpeg) 
+| Login screen  | Register screen | Add Baby screen |
+| ---| ---| ---|
+| ![Landing](./readme/demo/Login.jpeg) | ![fsdaf](./readme/demo/Register.jpeg) | ![fsdaf](./readme/demo/AddBaby.jpeg) |
 
-<br><br>
+| Tips Screen | Baby Recordings screen  | Recording Screen  |
+| ---| ---| ---|
+| ![fsdaf](./readme/demo/Tips.jpeg) | ![Landing](./readme/demo/BabyRecordings.jpeg) | ![fsdaf](./readme/demo/RecordingRoom.jpeg) |
+
+
+
+<br/></br>
 
 
 <!-- AWS Deployment -->
